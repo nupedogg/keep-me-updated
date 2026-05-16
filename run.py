@@ -1,4 +1,4 @@
-# agents/weekly_literature_digest/run.py
+# keep-me-updated/run.py
 
 from datetime import date
 from pathlib import Path
